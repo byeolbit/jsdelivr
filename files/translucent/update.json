@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "translucent",
+  "repo": "byeolbit/translucent",
+  "files": {
+    "include": ["dist/jquery.ui.translucent.js", "dist/jquery.ui.translucent.min.js"]
+  }
+}
